@@ -64,8 +64,6 @@ lib/
 4. **Search**: Type in search bar for instant filtering
 5. **Logout**: Tap logout icon in top-right
 
-## 📄 License
-MIT License - see [LICENSE](LICENSE) file.
 
 ---
 
