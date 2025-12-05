@@ -1,16 +1,71 @@
-# voice_notes_app
+# Voice Notes App 🎤
 
-A new Flutter project.
+A Flutter application that converts speech to text for effortless note-taking with local storage and search capabilities.
 
-## Getting Started
+## ✨ Features
+- **Voice-to-Text**: Real-time speech recognition with auto-title generation
+- **Secure Auth**: Email/password login with session persistence
+- **CRUD Operations**: Create, read, update, delete notes with swipe gestures
+- **Instant Search**: Real-time filtering of notes
+- **Responsive UI**: Light/dark themes with smooth animations
 
-This project is a starting point for a Flutter application.
+## 🚀 Quick Start
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+```bash
+git clone https://github.com/yourusername/voice-notes-app.git
+cd voice-notes-app
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Permissions
+**Android** (`AndroidManifest.xml`):
+```xml
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**iOS** (`Info.plist`):
+```xml
+<key>NSMicrophoneUsageDescription</key>
+<string>Voice recording for notes</string>
+```
+
+## 📱 Screenshots
+| Login | Home | Recording | Search |
+|-------|------|-----------|--------|
+| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Recording](screenshots/recording.png) | ![Search](screenshots/search.png) |
+
+## 🏗️ Project Structure
+```
+lib/
+├── main.dart
+├── Authentication/     # Login & Signup
+├── Controllers/       # GetX controllers
+├── Data/             # Hive models
+├── Views/            # Screens
+└── Widgets/          # Reusable components
+```
+
+## 📦 Dependencies
+- `get`: State management & navigation
+- `hive`: Local database
+- `speech_to_text`: Voice recognition
+- `shared_preferences`: User preferences
+- `flutter_slidable`: Swipe actions
+- `google_fonts`: Typography
+- `intl`: Date formatting
+
+## 🛠️ Usage
+1. **Create Account**: Sign up with email/password
+2. **Record Note**: Tap `+` → Mic icon → Speak → Save
+3. **Manage**: Swipe left to edit/delete notes
+4. **Search**: Type in search bar for instant filtering
+5. **Logout**: Tap logout icon in top-right
+
+## 📄 License
+MIT License - see [LICENSE](LICENSE) file.
+
+---
+
+⭐ **Star this repo if you find it useful!**
