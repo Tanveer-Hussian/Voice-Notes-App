@@ -34,7 +34,8 @@ flutter run
 ## 📱 Screenshots
 | Login | Home | Recording | Search |
 |-------|------|-----------|--------|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Recording](screenshots/recording.png) | ![Search](screenshots/search.png) |
+| ![WhatsApp Image 2025-12-05 at 1 09 13 PM (2)](https://github.com/user-attachments/assets/58f3a2fa-d0d8-43c6-81df-3e8c76d9c1f3)
+) | ![Home](screenshots/home.png) | ![Recording](screenshots/recording.png) | ![Search](screenshots/search.png) |
 
 ## 🏗️ Project Structure
 ```
