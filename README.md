@@ -34,8 +34,8 @@ flutter run
 ## 📱 Screenshots
 | Login | Home | Recording | Search |
 |-------|------|-----------|--------|
-| <img width="311" height="513" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>
-) | ![Home](screenshots/home.png) | ![Recording](screenshots/recording.png) | ![Search](screenshots/search.png) |
+| <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>   | <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br> 
+| <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>    | <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br> |
 
 ## 🏗️ Project Structure
 ```
