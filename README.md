@@ -34,8 +34,8 @@ flutter run
 ## 📱 Screenshots
 | Login | Home | Recording | Search |
 |-------|------|-----------|--------|
-| <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>   | <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br> 
-| <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>    | <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br> |
+| <img width="180" height="350" alt="image" src="https://github.com/user-attachments/assets/625be674-86b9-403b-834b-59afaa701969"/><br>   | <img width="180" height="350" alt="image" src="https://github.com/user-attachments/assets/85167874-328b-4fa1-b7d1-7e9dc81037f0"/><br> 
+| <img width="180" height="350" alt="image" src="https://github.com/user-attachments/assets/4d51e75a-6055-4277-9f4f-c15751584461"/><br>   | <img width="180" height="350" alt="image" src="https://github.com/user-attachments/assets/070ea665-9251-4089-880a-ee375ad9bc0d"/><br> 
 
 ## 🏗️ Project Structure
 ```
